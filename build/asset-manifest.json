@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/miOrg/build/static/css/main.e58d9c10.css",
-    "main.js": "/miOrg/build/static/js/main.f1281805.js",
-    "static/js/787.b790015c.chunk.js": "/miOrg/build/static/js/787.b790015c.chunk.js",
-    "index.html": "/miOrg/build/index.html",
-    "main.e58d9c10.css.map": "/miOrg/build/static/css/main.e58d9c10.css.map",
-    "main.f1281805.js.map": "/miOrg/build/static/js/main.f1281805.js.map",
-    "787.b790015c.chunk.js.map": "/miOrg/build/static/js/787.b790015c.chunk.js.map"
+    "main.css": "/miOrg/public/static/css/main.e58d9c10.css",
+    "main.js": "/miOrg/public/static/js/main.0cbf585a.js",
+    "static/js/787.b790015c.chunk.js": "/miOrg/public/static/js/787.b790015c.chunk.js",
+    "index.html": "/miOrg/public/index.html",
+    "main.e58d9c10.css.map": "/miOrg/public/static/css/main.e58d9c10.css.map",
+    "main.0cbf585a.js.map": "/miOrg/public/static/js/main.0cbf585a.js.map",
+    "787.b790015c.chunk.js.map": "/miOrg/public/static/js/787.b790015c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e58d9c10.css",
-    "static/js/main.f1281805.js"
+    "static/js/main.0cbf585a.js"
   ]
 }
