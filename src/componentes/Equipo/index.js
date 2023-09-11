@@ -10,7 +10,6 @@ const Equipo = (props) => {
         backgroundColor: hexToRgba(colorPrimario, 0.6)
     }
 
-
     const estiloTitulo = { borderColor: colorPrimario }
 
     return <>
