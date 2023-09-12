@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/miOrg/build/static/css/main.e58d9c10.css",
-    "main.js": "/miOrg/build/static/js/main.4d4e645d.js",
+    "main.js": "/miOrg/build/static/js/main.a85023ba.js",
     "static/js/787.b790015c.chunk.js": "/miOrg/build/static/js/787.b790015c.chunk.js",
     "index.html": "/miOrg/build/index.html",
     "main.e58d9c10.css.map": "/miOrg/build/static/css/main.e58d9c10.css.map",
-    "main.4d4e645d.js.map": "/miOrg/build/static/js/main.4d4e645d.js.map",
+    "main.a85023ba.js.map": "/miOrg/build/static/js/main.a85023ba.js.map",
     "787.b790015c.chunk.js.map": "/miOrg/build/static/js/787.b790015c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e58d9c10.css",
-    "static/js/main.4d4e645d.js"
+    "static/js/main.a85023ba.js"
   ]
 }

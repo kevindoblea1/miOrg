@@ -13,16 +13,16 @@ function App() {
     {
       id: uuid(),
       equipo: "Front End",
-      foto: "https://github.com/harlandlohora.png",
-      nombre: "Harland Lohora",
-      puesto: "Instructor"
+      foto: "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/274319450_5046760545374108_6214660349846117273_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeGwqPfavyhcKNuyhivyheGU6LErjT8IZ4josSuNPwhniDjEeKLCkwIDyg2s_EVgNgVM9QpxJZAFIvlL6V4KDnSB&_nc_ohc=Z8CmG0joiO8AX9Vwu5d&_nc_oc=AQnR6h_dq-GuIj301_ym0VF-5CXJBimp7g2W9_cI40TFy5SsqlLBHoDP6ouViif2H60&_nc_ht=scontent-mia3-1.xx&oh=00_AfDo5oIegSUPHFA-5FK4iZQnJCsDwnrXriWgzY6kI4mQrA&oe=65059843",
+      nombre: "Kevin Alvarenga",
+      puesto: "Head de MiOrg y front end",
     },
     {
       id: uuid(),
       equipo: "Programación",
-      foto: "https://media.licdn.com/dms/image/D4D03AQEQ5DGPEu63pQ/profile-displayphoto-shrink_800_800/0/1666749321927?e=1699488000&v=beta&t=srKmSE16DekyXGA09qY39nuVLf5f8vn03l7pin4FTjQ",
-      nombre: "Genesys Rondón",
-      puesto: "Desarrolladora de software e intructora"
+      foto: "https://media.licdn.com/dms/image/D4E35AQFrthNt2GHTIQ/profile-framedphoto-shrink_800_800/0/1688855858071?e=1695139200&v=beta&t=eVV64TOV3tcLQVlWfGhw8M4e-PPqSs71AP6ZJmid3eE",
+      nombre: "Gustavo Adolfo Hernandez Melendez",
+      puesto: "Desarrollador"
     },
     {
       id: uuid(),
@@ -34,8 +34,8 @@ function App() {
     {
       id: uuid(),
       equipo: "Programación",
-      foto: "https://github.com/JoseDarioGonzalezCha.png",
-      nombre: "Jose Gonzales",
+      foto: "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/301861673_5581539048605633_3452687871366679869_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF9SYLLqlmLctXUeykElPBY2Df4z_CVAGrYN_jP8JUAaqA1RUYiy-tsZdFeh6yWZ24XcXDGAttHHouF7J2n3N1c&_nc_ohc=KgFgki0KzkIAX9cWJde&_nc_ht=scontent-mia3-2.xx&oh=00_AfAGzrkFkRcH2L_k5C6VyIMZM8iL_X1Sg4NyomR417H2Vg&oe=650611B5",
+      nombre: "Jonathan Eduardo Cruz",
       puesto: "Dev Fullstack"
     },
     {
