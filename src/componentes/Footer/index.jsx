@@ -7,7 +7,7 @@ const Footer = () => {
                 <img src="https://github.com/kevindoblea1/miOrg/blob/main/build/img/facebook.png?raw=true" alt='Facebook' />
             </a>
             <a href='https://www.aluracursos.com/'>
-                <img src="https://github.com/kevindoblea1/miOrg/blob/main/build/img/twitter.png?raw=true" alt='twitter' />
+                <img src="../../../public/img/github.png" alt='github' />
             </a>
             <a href='https://www.aluracursos.com/'>
                 <img src="https://github.com/kevindoblea1/miOrg/blob/main/build/img/instagram.png?raw=true" alt='instagram' />
