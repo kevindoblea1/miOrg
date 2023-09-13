@@ -1,16 +1,16 @@
 import "./Footer.css"
-
+import { AiFillGithub, AiOutlineFacebook, AiFillLinkedin} from "react-icons/ai"
 const Footer = () => {
     return <footer className='footer' style={{ backgroundImage: "url(https://github.com/kevindoblea1/miOrg/blob/main/build/img/footer.png?raw=true)" }}>
         <div className='redes'>
-            <a href='https://www.aluracursos.com/'>
-                <img src="https://github.com/kevindoblea1/miOrg/blob/main/build/img/facebook.png?raw=true" alt='Facebook' />
+            <a href='https://www.facebook.com/kevindoblea93'>
+                <AiOutlineFacebook size={32} color="white" alt='Facebook' />
             </a>
-            <a href='https://www.aluracursos.com/'>
-                <img src="https://github.com/kevindoblea1/miOrg/blob/main/public/img/github.png?raw=true" alt='Github' />
+            <a href='https://github.com/kevindoblea1'>
+                <AiFillGithub size={32} color="white" alt='Github' />
             </a>
-            <a href='https://www.aluracursos.com/'>
-                <img src="https://github.com/kevindoblea1/miOrg/blob/main/build/img/instagram.png?raw=true" alt='instagram' />
+            <a href='https://www.instagram.com/kevin_doblea/'>
+                <AiFillLinkedin size={32} color="white" alt='instagram' />
             </a>
         </div>
         <img src='https://github.com/kevindoblea1/miOrg/blob/main/build/img/Logo.png?raw=true' alt='org' />
