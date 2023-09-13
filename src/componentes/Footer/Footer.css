@@ -29,10 +29,13 @@ footer strong {
 
 
 @media (max-width: 768px) {
+    .footer strong {
+        display: none;
+    }
     .redes {
         display: flex;
-        justify-content: center; /* Centrar los elementos horizontalmente */
-        align-items: center; /* Centrar los elementos verticalmente */
+        justify-content: space-between; /* Centrar los elementos horizontalmente */
+        align-items:baseline; /* Centrar los elementos verticalmente */
     }
 
     .redes a {
