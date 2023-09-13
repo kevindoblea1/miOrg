@@ -28,6 +28,20 @@ footer strong {
 }
 
 
+@media (max-width: 768px) {
+    .redes {
+        display: flex;
+        justify-content: center; /* Centrar los elementos horizontalmente */
+        align-items: center; /* Centrar los elementos verticalmente */
+    }
 
+    .redes a {
+        margin: 0 5px; /* Ajusta el valor de margen según tus preferencias */
+    }
+
+    .redes a:first-child {
+        margin-left: 0; /* Restablece el margen izquierdo para el primer elemento */
+    }
+}
 
 
